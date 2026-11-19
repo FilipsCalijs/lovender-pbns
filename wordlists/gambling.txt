@@ -1,0 +1,11 @@
+# Стартовый список (D2): гемблинг — только флаг, не выброс. Поиск подстрокой в имени.
+casino
+poker
+slots
+betting
+roulette
+blackjack
+jackpot
+bingo
+lotto
+sportsbook

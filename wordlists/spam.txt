@@ -1,0 +1,11 @@
+# Стартовый список (D2): слова из NAME_BLOCKLIST, кроме брендов. Замени своим.
+viagra
+cialis
+pharma
+pills
+replica
+porn
+xxx
+escort
+payday
+hentai

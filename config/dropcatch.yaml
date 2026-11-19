@@ -1,0 +1,45 @@
+# Куда подавать заявки по зонам (из заметок). Код пока не использует.
+lv:
+  - Domainrecover.net (>50% .lv)
+  - Autobackorder.com (тест)
+lt:
+  - Dom.lt (хороший процент, каждый заказ вручную, через месяц проверять и просить возврат)
+  - Domainrecover.net
+  - Autobackorder.com (тест)
+ee:
+  - auction.internet.ee — слепой аукцион в день дропа, ставка 50–100 €, хорошие домены 200–300 €
+pl:
+  - Aftermarket.pl (ловит ~9/10, дорогой аукцион)
+  - Premium.pl (для важных — оба)
+  - Nicsell.com (тест)
+eu:
+  - Nicsell.com и Catched.com — всегда оба
+  - Dropcatch.ai (дёшево, 50 €)
+  - Domainrecover.net (тест)
+hu:
+  - Kibernet.hu (основной, всё по почте, ставка 10 000–50 000 HUF)
+  - Domainrecover (дорого, запасной)
+sk:
+  - Aftermarket.sk (отлично, только в pendingDelete ~7 дней)
+  - Domainrecover (140 €)
+ro:
+  - Gazduire.net
+  - Autobackorder.com (тест)
+  - Domainrecover.net
+  - Seo.domains (брокер, делать предложения)
+fi:
+  - Weblovers (голландский аукцион, скрипт — спросить Samuel)
+  - Catcha.fi
+  - Catched.com
+si:
+  - вручную
+  - Autobackorder.com (тест)
+mx:
+  - Catched.com (низкий процент)
+  - Namecheap (иногда аукционы)
+  - Domainrecover (почти не ловит)
+gtld:
+  process: >-
+    сначала whois → регистратор → его аукцион-партнёр; если партнёра нет —
+    Catched.com, Namejet, Sav.com, Dropcatch.com (заявки только за 5 дней до дропа)
+  auctions: [GoDaddy, Namecheap, Dynadot, Sav.com (дешевле, меньше ставок)]

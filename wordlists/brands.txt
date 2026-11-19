@@ -1,0 +1,11 @@
+# Стартовый список (D2): бренды из NAME_BLOCKLIST. Замени своим.
+google
+facebook
+youtube
+instagram
+apple
+amazon
+microsoft
+paypal
+netflix
+tiktok

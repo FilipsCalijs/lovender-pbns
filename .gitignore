@@ -1,0 +1,16 @@
+.env
+.venv/
+state/
+domains_*/
+__pycache__/
+.DS_Store
+domains/
+.domains_tmp/
+data/
+logs/
+results/
+sample/pages_*/parsed_run_*/
+
+# saved logged-in expireddomains pages (account name inside, 38MB)
+sample/pages_*/
+.pytest_cache/

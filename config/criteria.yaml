@@ -1,0 +1,10 @@
+# Критерии отбора для следующих этапов (пока не используются кодом).
+min_ref_domains: "10–30 по рынку, не считая The Globe, копий Википедии и прочего автоспама"
+preferred_niches: [politics, society, travel, sports, history, games]
+not_preferred_niches: [health, pets]
+hard_no: [children, "personal sites (имяфамилия.tld)", porn]
+avoid:
+  - сайты с сильным SEO/автоматическим линкбилдингом
+  - несоответствие сайта и ссылок
+  - спам (кроме The Globe и т.п.)
+archive_pbn_history: "не автоматический отказ, но брать только при отличных ссылках и цене"
